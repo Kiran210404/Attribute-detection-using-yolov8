@@ -64,9 +64,6 @@ This project implements attribute detection using the YOLOv8 object detection fr
 
 Pull requests are welcome! If you find bugs or have suggestions, please open an issue or submit a PR.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## References
 
